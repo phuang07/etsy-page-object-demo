@@ -1,0 +1,7 @@
+results.html
+.idea/*
+.bundle/*
+chromedriver.log
+pagemetrics.yml
+screenshots*
+junit*
